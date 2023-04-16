@@ -1,6 +1,6 @@
 - 👋 Hi, I’m swx，a postgraduate student of CQUPT
 - 👀 I’m interested in 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java、C++ and ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can contact by e-mail: cwl990110@163.com
 
