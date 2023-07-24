@@ -16,7 +16,7 @@
 
 <div align="center">
 <!--     [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=578223592" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=578223592&theme=minimal" />
 <!--     <img src="https://activity-graph.herokuapp.com/graph?username=578223592&theme=minimal" /> -->
 </div>
 
