@@ -10,7 +10,7 @@
 --->
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=578223592&theme=solarized-light" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=578223592&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=578223592&theme=solarized-light" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=578223592&layout=compact&langs_count=8&theme=solarized-light" />
 <span>  </span>
 </div>
 
