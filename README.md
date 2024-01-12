@@ -1,5 +1,15 @@
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=10000&color=2977F7&center=true&vCenter=true&random=false&width=435&height=80&lines=%E6%80%9D+%E6%97%A0+%E9%82%AA)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+    
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2977F7&center=true&vCenter=true&random=false&width=600&height=40&lines=keep+learing+%2C+keep+trying+%2C+keep+doing.)](https://git.io/typing-svg)
+
+</div>
+
 
 🤡 Brief Introduction
 - 👋 Hi, I’m 无邪，a postgraduate student of CQUPT
