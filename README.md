@@ -12,6 +12,7 @@
 
 
 🤡 Brief Introduction
+<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 - 👋 Hi, I’m 无邪，a postgraduate student of CQUPT
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Java、C++ and ...
