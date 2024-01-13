@@ -26,6 +26,10 @@
 
 ![](profile-3d-contrib/profile-gitblock.svg)
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=578223592)](https://github.com/ryo-ma/github-profile-trophy)
 
 [^_^]:
