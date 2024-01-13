@@ -11,9 +11,13 @@
 </div>
 
 
-🤡 Brief Introduction
-<img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
-- 👋 Hi, I’m 无邪，a postgraduate student of CQUPT
+## 🤡 Brief Introduction
+
+<p><img src="https://count.getloli.com/get/@:578223592" align="right" /></p>
+
+
+
+- 👋 Hi, I’m **无邪**，a postgraduate student of CQUPT
 - 👀 I’m interested in 
 - 🌱 I’m currently learning Java、C++ and ...
 - 💞️ I’m looking to collaborate on ...
@@ -28,6 +32,10 @@
     commentted-out contents
     should be shift to right by four spaces (`>>`).
 
+
+    ![:name](https://count.getloli.com/get/@:578223592#pic_right)
+
+    <img align="right" alt="GIF" src="src/code.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
 
     <!---
     [https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md](https://www.yuque.com/achuan-2/blog/dq718n)
