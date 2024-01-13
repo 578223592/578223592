@@ -27,6 +27,15 @@
 ![](profile-3d-contrib/profile-gitblock.svg)
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 14 December 2023 - To: 13 January 2024
+
+Total Time: 51 mins
+
+Other   51 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 
