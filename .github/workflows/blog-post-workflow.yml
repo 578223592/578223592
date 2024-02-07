@@ -17,5 +17,5 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feed.cnblogs.com/blog/u/719644/rss/"
-          max_post_count: 7
-          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮)[$title $date]($url) $newline - $description $newline"
+          max_post_count: 5
+          template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,🦧,🦍)[$title $date]($url) $newline - $description $newline"
