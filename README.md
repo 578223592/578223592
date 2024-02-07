@@ -28,11 +28,26 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [SourceTree SSH第一次登录需要交互确认的问题 - 思wu邪](https://www.cnblogs.com/swx123/p/17937429)
-- [vscode python remote debug极速入门 - 思wu邪](https://www.cnblogs.com/swx123/p/17827203.html)
-- [使用_begin{thebibliography}__bibitem 如何参考文献 - 思wu邪](https://www.cnblogs.com/swx123/p/17802430.html)
-- [python ModuleNotFoundError_ No module named &#39;xxx&#39;的解决方案 - 思wu邪](https://www.cnblogs.com/swx123/p/17790487.html)
-- [笔试算法题分享 - 思wu邪](https://www.cnblogs.com/swx123/p/17768294.html)
+ - 🔥[SourceTree SSH第一次登录需要交互确认的问题 - 思wu邪](https://www.cnblogs.com/swx123/p/17937429) 
+ - 【摘要】问题 在SourceTree SSH配置完ssh之后向上提交代码的时候发现： The server&amp;#39;s host key is not cached in the registry. You have no guarantee that the server is the computer you  &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17937429&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 🚀[vscode python remote debug极速入门 - 思wu邪](https://www.cnblogs.com/swx123/p/17827203.html) 
+ - 【摘要】本文适用范围 主要适用于debug python 程序，尤其是深度学习刚入门需要使用remote 连接到linux进行程序运行，想调试一下的同学。 当然非深度学习也可以参考食用本文哈哈哈。 极速入门版 提前准备：代码仓库已经拉取到linux上面，且已经知道运行的方式。 比如： 项目的启动命令为：py &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17827203.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 🔥[使用_begin{thebibliography}__bibitem 如何参考文献 - 思wu邪](https://www.cnblogs.com/swx123/p/17802430.html) 
+ - 【摘要】本人是tex新手，如果各位大佬有更好的方法欢迎分享，不胜感激。 适用情况 本文适用于使用\begin{thebibliography}和\bibitem排序的情况，如果使用bibtex排序那么网上很多教程。 在使用tex发现不会自动排序非常僵硬，即如下情况： 在参考文献的位置引用排在第二个，但是在原 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17802430.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 🔥[python ModuleNotFoundError_ No module named &#39;xxx&#39;的解决方案 - 思wu邪](https://www.cnblogs.com/swx123/p/17790487.html) 
+ - 【摘要】本文主要针对的自己写的包无法正常import的情况，如果是第三方包的话正常来说没有问题。 第三方包 主要考虑没有安装对应的版本以及包名写错了等奇葩情况，具体可参考ModuleNotFoundError: No module named ‘xxx’可能的解决方案大全 自建的包 如果是自己的包，可按照下 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17790487.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 💯[笔试算法题分享 - 思wu邪](https://www.cnblogs.com/swx123/p/17768294.html) 
+ - 【摘要】草船借箭 题目： 题目描述: 程序员小周同学这几天在看《三国演义》。今天他看到了“草船借箭”这一回，在钦佩诸葛亮巧借东风向曹操“借&amp;quot;箭的同 时，小周想到这么一个问题: 如果诸葛亮一共派出了N条放置草人的船来“借&amp;quot;箭。“悚慨”的曹操向第1条草船上射了A支 箭、第2条草船上射了B支箭，第3条草船上射的箭 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17768294.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 💯[google gtest框架入门使用案例 - 思wu邪](https://www.cnblogs.com/swx123/p/17767179.html) 
+ - 【摘要】通过本文可以收获：google gtest急速入门、google gtest资源网站。 google gtest是什么 google gtest是谷歌开源的c++单元测试框架，非常的好用。 起码个人感觉和spring boot自带的测试框架功能差不太多。 安装 略过，请参考：GitHub - goo &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17767179.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
+
+ - 🚀[rpc项目中的长连接与短连接的思考 - 思wu邪](https://www.cnblogs.com/swx123/p/17754469.html) 
+ - 【摘要】对于rpc项目，在接受大佬指导的时候曾问过对于长连接和短连接是处理处理的，在面试的时候也被问起socket是长连接还是短连接，发现自己没有好好思考过这个问题，因此好好总结一下。 前置知识点：rpc基础，tcp基础 rpc项目中的长连接与短连接的思考 什么是rpc项目中的长连接和短连接 类似于http &lt;a href=&quot;https://www.cnblogs.com/swx123/p/17754469.html&quot; target=&quot;_blank&quot;&gt;阅读全文&lt;/a&gt; 
 <!-- BLOG-POST-LIST:END -->
 
 
