@@ -28,6 +28,11 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SourceTree SSH第一次登录需要交互确认的问题 - 思wu邪](https://www.cnblogs.com/swx123/p/17937429)
+- [vscode python remote debug极速入门 - 思wu邪](https://www.cnblogs.com/swx123/p/17827203.html)
+- [使用_begin{thebibliography}__bibitem 如何参考文献 - 思wu邪](https://www.cnblogs.com/swx123/p/17802430.html)
+- [python ModuleNotFoundError_ No module named &#39;xxx&#39;的解决方案 - 思wu邪](https://www.cnblogs.com/swx123/p/17790487.html)
+- [笔试算法题分享 - 思wu邪](https://www.cnblogs.com/swx123/p/17768294.html)
 <!-- BLOG-POST-LIST:END -->
 
 
