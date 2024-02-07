@@ -36,7 +36,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-
+## ✨ Other
 <!--START_SECTION:waka-->
 
 ```rust
