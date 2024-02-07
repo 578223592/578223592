@@ -17,5 +17,6 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://feed.cnblogs.com/blog/u/719644/rss/"
+          # 博客园的话：https://www.cnblogs.com/swx123/rss 在自己博客后面加上/rss，就会自动跳转了
           max_post_count: 5
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,🦧,🦍)[$title $date]($url) $newline - $description $newline"
