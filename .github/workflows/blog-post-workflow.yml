@@ -20,3 +20,4 @@ jobs:
           # 博客园的话：https://www.cnblogs.com/swx123/rss 在自己博客后面加上/rss，就会自动跳转了
           max_post_count: 5
           template: "$newline - $randomEmoji(💯,🔥,💫,🚀,🌮,🦧,🦍)[$title $date]($url) $newline - $description $newline"
+          description_max_length: "90"
