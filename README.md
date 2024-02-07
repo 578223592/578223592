@@ -26,6 +26,12 @@
 
 ![](profile-3d-contrib/profile-gitblock.svg)
 
+## 🎈 Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+
+
 <!--START_SECTION:waka-->
 
 ```rust
