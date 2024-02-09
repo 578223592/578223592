@@ -49,15 +49,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 January 2024 - To: 07 February 2024
+From: 09 January 2024 - To: 08 February 2024
 
-Total Time: 128 hrs 11 mins
+Total Time: 128 hrs 44 mins
 
-Other            97 hrs 56 mins  >>>>>>>>>>>>>>>>>>>------   76.40 %
-C++              22 hrs 6 mins   >>>>---------------------   17.24 %
+Other            98 hrs 29 mins  >>>>>>>>>>>>>>>>>>>------   76.50 %
+C++              22 hrs 6 mins   >>>>---------------------   17.17 %
 Markdown         2 hrs 20 mins   -------------------------   01.82 %
-Go               2 hrs 19 mins   -------------------------   01.81 %
-C                2 hrs 15 mins   -------------------------   01.76 %
+Go               2 hrs 19 mins   -------------------------   01.80 %
+C                2 hrs 15 mins   -------------------------   01.75 %
 CMake            41 mins         -------------------------   00.54 %
 CSV              11 mins         -------------------------   00.15 %
 GitIgnore file   9 mins          -------------------------   00.12 %
