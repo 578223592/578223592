@@ -50,15 +50,15 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 08 March 2024 - To: 07 April 2024
+From: 09 March 2024 - To: 08 April 2024
 
-Total Time: 178 hrs 59 mins
+Total Time: 177 hrs 45 mins
 
-Other            145 hrs 21 mins >>>>>>>>>>>>>>>>>>>>-----   81.20 %
-C++              14 hrs 8 mins   >>-----------------------   07.90 %
-Python           9 hrs 49 mins   >------------------------   05.49 %
-BibTeX           4 hrs 41 mins   >------------------------   02.62 %
-Markdown         2 hrs 19 mins   -------------------------   01.30 %
+Other            145 hrs 33 mins >>>>>>>>>>>>>>>>>>>>-----   81.89 %
+C++              13 hrs 43 mins  >>-----------------------   07.72 %
+Python           9 hrs 49 mins   >------------------------   05.53 %
+BibTeX           3 hrs 36 mins   >------------------------   02.03 %
+Markdown         2 hrs 20 mins   -------------------------   01.31 %
 Text             57 mins         -------------------------   00.54 %
 C                31 mins         -------------------------   00.29 %
 JavaScript       24 mins         -------------------------   00.23 %
