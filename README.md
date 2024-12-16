@@ -29,20 +29,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[阿里云开启ssl证书过程记录 NGINX - 思wu邪 Tue Jun 25 2024 1:17 PM](https://www.cnblogs.com/swx123/p/18267877) 
+ - 💫[极客时间《Redis核心技术与实战》阅读笔记 - 思wu邪 Sat Dec 14 2024 4:05 PM](https://www.cnblogs.com/swx123/p/18607444/reading-notes-redis-core-technology-and-actual-combat-reading-notes-2x4uwp) 
+ - 【摘要】极客时间《Redis核心技术与实战》阅读笔记 ‍ ​​ ‍ ‍ ‍ ​​ ‍ 数据结构 为了实现从键到值的快速访问，Redis 使用了一个哈希表来保存所有键值对。 哈希桶中的元素保存的并不是值本身，而是指向具体值的指针 ​​ ‍ 因为用了哈希表，所以我们必须考虑hash冲突和 key越来越多... 
+
+ - 🦧[阿里云开启ssl证书过程记录 NGINX - 思wu邪 Tue Jun 25 2024 1:17 PM](https://www.cnblogs.com/swx123/p/18267877) 
  - 【摘要】&amp;#129310;作者简介：大家好，我是思无邪，2024 毕业生，某厂 Go 开发工程师.。 &amp;#128002;我的网站：https://www.yishanicode.top/ ，持续更新，希望对你有帮助。 &amp;#128030;如果文章或网站知识点有错误的地方，烦请指正！和大家一起学习，一起... 
 
- - 🦧[项目中协程加入的原因和过程分享 - 思wu邪 Tue Feb 27 2024 11:58 AM](https://www.cnblogs.com/swx123/p/18037780) 
+ - 💫[项目中协程加入的原因和过程分享 - 思wu邪 Tue Feb 27 2024 11:58 AM](https://www.cnblogs.com/swx123/p/18037780) 
  - 【摘要】原文已经发到项目wiki页面：https://github.com/youngyangyang04/KVstorageBaseRaft-cpp/wiki/协程加入的原因和过程分享 欢迎大家给项目来个star哈哈哈。 在 feat：协程替代doElectionTicker和doHeartBea... 
 
  - 💫[SourceTree SSH第一次登录需要交互确认的问题 - 思wu邪 Sun Dec 31 2023 5:13 AM](https://www.cnblogs.com/swx123/p/17937429) 
  - 【摘要】问题 在SourceTree SSH配置完ssh之后向上提交代码的时候发现： The server&amp;#39;s host key is not cached in the registry. You have no guarantee that the server is the compu... 
 
- - 💫[vscode python remote debug极速入门 - 思wu邪 Sun Nov 12 2023 7:02 AM](https://www.cnblogs.com/swx123/p/17827203.html) 
+ - 💯[vscode python remote debug极速入门 - 思wu邪 Sun Nov 12 2023 7:02 AM](https://www.cnblogs.com/swx123/p/17827203.html) 
  - 【摘要】本文适用范围 主要适用于debug python 程序，尤其是深度学习刚入门需要使用remote 连接到linux进行程序运行，想调试一下的同学。 当然非深度学习也可以参考食用本文哈哈哈。 极速入门版 提前准备：代码仓库已经拉取到linux上面，且已经知道运行的方式。 比如： 项目的启动命令... 
-
- - 💯[使用_begin{thebibliography}__bibitem 如何参考文献 - 思wu邪 Wed Nov 01 2023 2:14 AM](https://www.cnblogs.com/swx123/p/17802430.html) 
- - 【摘要】本人是tex新手，如果各位大佬有更好的方法欢迎分享，不胜感激。 适用情况 本文适用于使用\begin{thebibliography}和\bibitem排序的情况，如果使用bibtex排序那么网上很多教程。 在使用tex发现不会自动排序非常僵硬，即如下情况： 在参考文献的位置引用排在第二个，... 
 <!-- BLOG-POST-LIST:END -->
 
 
