@@ -29,20 +29,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - 💫[MySQL分页性能思考 - 思wu邪 Sat Dec 21 2024 4:38 PM](https://www.cnblogs.com/swx123/p/18621593/mysql-paging-performance-thinking-z2bstp1) 
+ - 【摘要】MySQL分页性能思考 关键词：深度分页 背景 最近有一个需求：在后台管理页面中，需要展示产品信息的列表。 之前版本开发中产品信息是用户填写完所有字段之后能进行保存。在之前的基础上需要支持用户不完全填写字段进行展示和保存的功能。 一个很简单的想法是为空也直接保存就可以了，但是由于之前的开发中... 
+
+ - 🦧[关于分布式锁的的思考 - 思wu邪 Sat Dec 21 2024 6:10 AM](https://www.cnblogs.com/swx123/p/18620719/thinking-about-distributed-locks-zrkqat) 
+ - 【摘要】关于分布式锁的的思考 结论先行： 对于分布式锁我们在考虑不同方案的时候需要先思考需要的效果是什么？ 为了效率&lpar;efficiency&rpar;，协调各个客户端避免做重复的工作。即使锁偶尔失效了，只是可能把某些操作多做一遍而已，不会产生其它的不良后果。比如重复发送了一封同样的 email（当然这取决于业... 
+
+ - 💫[关于接口升级版本的一些思考 - 思wu邪 Tue Dec 17 2024 12:59 PM](https://www.cnblogs.com/swx123/p/18613408/some-thinking-about-the-upgraded-version-of-the-interface-z1mx8g8) 
+ - 【摘要】关于接口升级版本的一些思考 在一次需求开发的过程中，涉及了整个链路中多个服务的接口改动，因为涉及接口还是线上访问的主接口，改动需要慎重，于是对接口发版的顺序引发了自己的一些思考。 ‍ 什么样的接口改动可以直接发版，不用关注顺序 应该是保持”前后向兼容“的接口可以直接发版。 对于接口，有两个概... 
+
  - 💫[极客时间《Redis核心技术与实战》阅读笔记 - 思wu邪 Sat Dec 14 2024 4:05 PM](https://www.cnblogs.com/swx123/p/18607444/reading-notes-redis-core-technology-and-actual-combat-reading-notes-2x4uwp) 
  - 【摘要】极客时间《Redis核心技术与实战》阅读笔记 ‍ ​​ ‍ ‍ ‍ ​​ ‍ 数据结构 为了实现从键到值的快速访问，Redis 使用了一个哈希表来保存所有键值对。 哈希桶中的元素保存的并不是值本身，而是指向具体值的指针 ​​ ‍ 因为用了哈希表，所以我们必须考虑hash冲突和 key越来越多... 
 
- - 🦧[阿里云开启ssl证书过程记录 NGINX - 思wu邪 Tue Jun 25 2024 1:17 PM](https://www.cnblogs.com/swx123/p/18267877) 
+ - 💯[阿里云开启ssl证书过程记录 NGINX - 思wu邪 Tue Jun 25 2024 1:17 PM](https://www.cnblogs.com/swx123/p/18267877) 
  - 【摘要】&amp;#129310;作者简介：大家好，我是思无邪，2024 毕业生，某厂 Go 开发工程师.。 &amp;#128002;我的网站：https://www.yishanicode.top/ ，持续更新，希望对你有帮助。 &amp;#128030;如果文章或网站知识点有错误的地方，烦请指正！和大家一起学习，一起... 
-
- - 💫[项目中协程加入的原因和过程分享 - 思wu邪 Tue Feb 27 2024 11:58 AM](https://www.cnblogs.com/swx123/p/18037780) 
- - 【摘要】原文已经发到项目wiki页面：https://github.com/youngyangyang04/KVstorageBaseRaft-cpp/wiki/协程加入的原因和过程分享 欢迎大家给项目来个star哈哈哈。 在 feat：协程替代doElectionTicker和doHeartBea... 
-
- - 💫[SourceTree SSH第一次登录需要交互确认的问题 - 思wu邪 Sun Dec 31 2023 5:13 AM](https://www.cnblogs.com/swx123/p/17937429) 
- - 【摘要】问题 在SourceTree SSH配置完ssh之后向上提交代码的时候发现： The server&amp;#39;s host key is not cached in the registry. You have no guarantee that the server is the compu... 
-
- - 💯[vscode python remote debug极速入门 - 思wu邪 Sun Nov 12 2023 7:02 AM](https://www.cnblogs.com/swx123/p/17827203.html) 
- - 【摘要】本文适用范围 主要适用于debug python 程序，尤其是深度学习刚入门需要使用remote 连接到linux进行程序运行，想调试一下的同学。 当然非深度学习也可以参考食用本文哈哈哈。 极速入门版 提前准备：代码仓库已经拉取到linux上面，且已经知道运行的方式。 比如： 项目的启动命令... 
 <!-- BLOG-POST-LIST:END -->
 
 
