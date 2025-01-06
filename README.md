@@ -29,20 +29,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - 💫[Timer、Ticker使用及其注意事项 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
+ - 【摘要】在 Golang 中，Timer 和 Ticker 是常用的定时器工具，但它们的使用易出错，尤其是初学者。本文将深入探讨定时器的正确使用方式、常见误区，并通过源码解读帮助你更好地理解它们的工作原理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1865... 
+
+ - 🦧[golang1.23版本之前 Timer Reset方法无法正确使用 - 思wu邪 Sun Jan 05 2025 4:45 PM](https://www.cnblogs.com/swx123/p/18654198/golang123-before-the-timer-reset-method-cannot-be-used-correctly-z1irvwa) 
+ - 【摘要】在 Go 1.23 之前，正确使用 Timer.Reset 是一个挑战，因为 Stop 和抽取操作之间的状态可能不一致，导致定时器异常触发。最好的做法是避免复用定时器，每次都创建一个新的定时器，这样代码更简洁、健壮，也更容易维护。 &lt;a href=&quot;https://www.cnblogs.c... 
+
+ - 💫[持续更新中|关于重构的一点简单的思考 - 思wu邪 Sun Jan 05 2025 7:01 AM](https://www.cnblogs.com/swx123/p/18653376/continuous-update-simple-thinking-about-reconstruction-fxlsc) 
+ - 【摘要】持续更新中|关于重构的一点简单的思考 当前工作的组内，由于业务开启的时间正好处于集团php-》go技术栈全面迁移的时间点，组内语言技术栈存在：php、go两套。 因此需求开发过程中通常要考虑两套技术栈的逻辑，一些基础的逻辑也没有办法复用。 在这样的背景下，技术栈从php迁移到go这样的重构是... 
+
  - 💫[秒杀场景的设计思考 - 思wu邪 Sun Dec 29 2024 1:47 PM](https://www.cnblogs.com/swx123/p/18639622/design-thinking-of-spike-scene-gabti) 
  - 【摘要】秒杀场景的设计思考 在学习Redis的之后，一个绕不开的话题就是秒杀系统的设计。本文将从下面几个方面展开一下个人简单的理解： 秒杀场景的介绍 设计的核心思路 怎么限流、削峰、异步 planB 总结 ‍ 秒杀场景的介绍 秒杀场景是大家常说的高并发场景，但是实际上其与单纯的高并发还有一点不同，主... 
 
- - 🦧[MySQL分页性能思考 - 思wu邪 Sat Dec 21 2024 4:38 PM](https://www.cnblogs.com/swx123/p/18621593/mysql-paging-performance-thinking-z2bstp1) 
+ - 💯[MySQL分页性能思考 - 思wu邪 Sat Dec 21 2024 4:38 PM](https://www.cnblogs.com/swx123/p/18621593/mysql-paging-performance-thinking-z2bstp1) 
  - 【摘要】MySQL分页性能思考 关键词：深度分页 背景 最近有一个需求：在后台管理页面中，需要展示产品信息的列表。 之前版本开发中产品信息是用户填写完所有字段之后能进行保存。在之前的基础上需要支持用户不完全填写字段进行展示和保存的功能。 一个很简单的想法是为空也直接保存就可以了，但是由于之前的开发中... 
-
- - 💫[关于分布式锁的的思考 - 思wu邪 Sat Dec 21 2024 6:10 AM](https://www.cnblogs.com/swx123/p/18620719/thinking-about-distributed-locks-zrkqat) 
- - 【摘要】关于分布式锁的的思考 结论先行： 对于分布式锁我们在考虑不同方案的时候需要先思考需要的效果是什么？ 为了效率&lpar;efficiency&rpar;，协调各个客户端避免做重复的工作。即使锁偶尔失效了，只是可能把某些操作多做一遍而已，不会产生其它的不良后果。比如重复发送了一封同样的 email（当然这取决于业... 
-
- - 💫[关于接口升级版本的一些思考 - 思wu邪 Tue Dec 17 2024 12:59 PM](https://www.cnblogs.com/swx123/p/18613408/some-thinking-about-the-upgraded-version-of-the-interface-z1mx8g8) 
- - 【摘要】关于接口升级版本的一些思考 在一次需求开发的过程中，涉及了整个链路中多个服务的接口改动，因为涉及接口还是线上访问的主接口，改动需要慎重，于是对接口发版的顺序引发了自己的一些思考。 ‍ 什么样的接口改动可以直接发版，不用关注顺序 应该是保持”前后向兼容“的接口可以直接发版。 对于接口，有两个概... 
-
- - 💯[极客时间《Redis核心技术与实战》阅读笔记 - 思wu邪 Sat Dec 14 2024 4:05 PM](https://www.cnblogs.com/swx123/p/18607444/reading-notes-redis-core-technology-and-actual-combat-reading-notes-2x4uwp) 
- - 【摘要】极客时间《Redis核心技术与实战》阅读笔记 ‍ ​​ ‍ ‍ ‍ ​​ ‍ 数据结构 为了实现从键到值的快速访问，Redis 使用了一个哈希表来保存所有键值对。 哈希桶中的元素保存的并不是值本身，而是指向具体值的指针 ​​ ‍ 因为用了哈希表，所以我们必须考虑hash冲突和 key越来越多... 
 <!-- BLOG-POST-LIST:END -->
 
 
