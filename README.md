@@ -28,7 +28,7 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[Timer、Ticker使用及其注意事项 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
+ - 💫[从源码解析golang Timer定时器体系的来龙去脉 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
  - 【摘要】在 Golang 中，Timer 和 Ticker 是常用的定时器工具，但它们的使用易出错，尤其是初学者。本文将深入探讨定时器的正确使用方式、常见误区，并通过源码解读帮助你更好地理解它们的工作原理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1865... 
 
  - 🦧[golang1.23版本之前 Timer Reset方法无法正确使用 - 思wu邪 Sun Jan 05 2025 4:45 PM](https://www.cnblogs.com/swx123/p/18654198/golang123-before-the-timer-reset-method-cannot-be-used-correctly-z1irvwa) 
