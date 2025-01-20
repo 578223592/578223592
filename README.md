@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[从源码解析golang Timer定时器体系的来龙去脉 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
+ - 💫[对rpc长连接与短连接的思考 - 思wu邪 Thu Jan 16 2025 1:34 PM](https://www.cnblogs.com/swx123/p/18675793/think-about-the-rpc-long-connection-and-short-connection-zufhzj) 
+ - 【摘要】RPC项目中长连接和短连接各有优劣，长连接适用于少量客户端，提高效率；短连接则更适合大量客户端，避免服务器过载。结合L4和L7负载均衡，合理选择连接方式，提升系统性能和稳定性。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18675793/think-... 
+
+ - 🦧[从源码解析golang Timer定时器体系的来龙去脉 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
  - 【摘要】在 Golang 中，Timer 和 Ticker 是常用的定时器工具，但它们的使用易出错，尤其是初学者。本文将深入探讨定时器的正确使用方式、常见误区，并通过源码解读帮助你更好地理解它们的工作原理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1865... 
 
- - 🦧[golang1.23版本之前 Timer Reset方法无法正确使用 - 思wu邪 Sun Jan 05 2025 4:45 PM](https://www.cnblogs.com/swx123/p/18654198/golang123-before-the-timer-reset-method-cannot-be-used-correctly-z1irvwa) 
+ - 💫[golang1.23版本之前 Timer Reset方法无法正确使用 - 思wu邪 Sun Jan 05 2025 4:45 PM](https://www.cnblogs.com/swx123/p/18654198/golang123-before-the-timer-reset-method-cannot-be-used-correctly-z1irvwa) 
  - 【摘要】在 Go 1.23 之前，正确使用 Timer.Reset 是一个挑战，因为 Stop 和抽取操作之间的状态可能不一致，导致定时器异常触发。最好的做法是避免复用定时器，每次都创建一个新的定时器，这样代码更简洁、健壮，也更容易维护。 &lt;a href=&quot;https://www.cnblogs.c... 
 
- - 💫[持续更新中|关于重构的一点简单的思考 - 思wu邪 Sun Jan 05 2025 7:01 AM](https://www.cnblogs.com/swx123/p/18653376/continuous-update-simple-thinking-about-reconstruction-fxlsc) 
+ - 💫[关于重构的一点简单的思考 - 思wu邪 Sun Jan 05 2025 7:01 AM](https://www.cnblogs.com/swx123/p/18653376/continuous-update-simple-thinking-about-reconstruction-fxlsc) 
  - 【摘要】持续更新中|关于重构的一点简单的思考 当前工作的组内，由于业务开启的时间正好处于集团php-》go技术栈全面迁移的时间点，组内语言技术栈存在：php、go两套。 因此需求开发过程中通常要考虑两套技术栈的逻辑，一些基础的逻辑也没有办法复用。 在这样的背景下，技术栈从php迁移到go这样的重构是... 
 
- - 💫[秒杀场景的设计思考 - 思wu邪 Sun Dec 29 2024 1:47 PM](https://www.cnblogs.com/swx123/p/18639622/design-thinking-of-spike-scene-gabti) 
+ - 💯[秒杀场景的设计思考 - 思wu邪 Sun Dec 29 2024 1:47 PM](https://www.cnblogs.com/swx123/p/18639622/design-thinking-of-spike-scene-gabti) 
  - 【摘要】秒杀场景的设计思考 在学习Redis的之后，一个绕不开的话题就是秒杀系统的设计。本文将从下面几个方面展开一下个人简单的理解： 秒杀场景的介绍 设计的核心思路 怎么限流、削峰、异步 planB 总结 ‍ 秒杀场景的介绍 秒杀场景是大家常说的高并发场景，但是实际上其与单纯的高并发还有一点不同，主... 
-
- - 💯[MySQL分页性能思考 - 思wu邪 Sat Dec 21 2024 4:38 PM](https://www.cnblogs.com/swx123/p/18621593/mysql-paging-performance-thinking-z2bstp1) 
- - 【摘要】MySQL分页性能思考 关键词：深度分页 背景 最近有一个需求：在后台管理页面中，需要展示产品信息的列表。 之前版本开发中产品信息是用户填写完所有字段之后能进行保存。在之前的基础上需要支持用户不完全填写字段进行展示和保存的功能。 一个很简单的想法是为空也直接保存就可以了，但是由于之前的开发中... 
 <!-- BLOG-POST-LIST:END -->
 
 
