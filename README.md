@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
+ - 💫[[DDD架构]不同数据模型DTO、VO、PO、DAO、DO的含义 - 思wu邪 Sat Mar 22 2025 2:07 PM](https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250gkg) 
+ - 【摘要】DDD中不同object的含义 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250... 
+
+ - 🦧[golang Error的一些坑 - 思wu邪 Sat Mar 22 2025 5:59 AM](https://www.cnblogs.com/swx123/p/18786510/some-pitfalls-of-golang-error-zm5wif) 
+ - 【摘要】Go错误处理需规范预定义错误变量（如var ErrX = errors.New&lpar;&quot;x&quot;&rpar;），避免动态生成导致errors.Is失效；自定义错误应封装结构体并仅暴露接口，返回nil时确保接口类型为nil，防止非预期判断。优先使用errors.Is/As进行链式检查，规避指针和nil陷阱。 &lt;a... 
+
  - 💫[CQRS （Command Query Responsibility Segregation，命令查询职责分离） - 思wu邪 Thu Mar 13 2025 3:42 PM](https://www.cnblogs.com/swx123/p/18771282/cqrs-command-query-responsibility-segregation-command-query-responsibilities-separation-z1q9ewi) 
  - 【摘要】CQRS（命令查询职责分离）通过将数据写入（命令）与读取（查询）分离优化系统架构。在微服务场景中，数据分散导致查询效率低下时，可通过创建只读视图数据库聚合数据。该视图库订阅各服务领域事件，实时同步更新（如文档型NoSQL），解决跨服务查询性能问题。需权衡数据一致性（容忍短暂延迟，结合离线和在... 
 
- - 🦧[Golang sync.pool源码解析 - 思wu邪 Fri Jan 24 2025 6:05 AM](https://www.cnblogs.com/swx123/p/18689447/golang-syncpool-source-code-analysis-1xpgw6) 
+ - 💫[Golang sync.pool源码解析 - 思wu邪 Fri Jan 24 2025 6:05 AM](https://www.cnblogs.com/swx123/p/18689447/golang-syncpool-source-code-analysis-1xpgw6) 
  - 【摘要】sync.Pool 是 Go 中用于对象复用的工具，可减少频繁创建和销毁对象的开销，从而优化内存使用和降低 GC 压力。本文通过分析其用法、真实案例及源码结构，详细解读了 sync.Pool 的读写流程及其背后的高效设计思想，为性能优化提供了实用参考。 &lt;a href=&quot;https://ww... 
 
- - 💫[【大厂文章学习】合并编译的学习与思考 - 思wu邪 Wed Jan 22 2025 12:46 PM](https://www.cnblogs.com/swx123/p/18686774/learning-from-the-large-factory-article-the-study-and-thinking-of-combined-compilation-jva2s) 
+ - 💯[【大厂文章学习】合并编译的学习与思考 - 思wu邪 Wed Jan 22 2025 12:46 PM](https://www.cnblogs.com/swx123/p/18686774/learning-from-the-large-factory-article-the-study-and-thinking-of-combined-compilation-jva2s) 
  - 【摘要】合并编译通过将微服务的远程调用优化为本地函数调用，显著降低CPU开销和容器资源需求，但需权衡服务隔离、版本管理等挑战，适用于资源密集、调用关系紧密的场景。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18686774/learning-from-the... 
-
- - 💫[对rpc长连接与短连接的思考 - 思wu邪 Thu Jan 16 2025 1:34 PM](https://www.cnblogs.com/swx123/p/18675793/think-about-the-rpc-long-connection-and-short-connection-zufhzj) 
- - 【摘要】RPC项目中长连接和短连接各有优劣，长连接适用于少量客户端，提高效率；短连接则更适合大量客户端，避免服务器过载。结合L4和L7负载均衡，合理选择连接方式，提升系统性能和稳定性。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18675793/think-... 
-
- - 💯[从源码解析golang Timer定时器体系的来龙去脉 - 思wu邪 Mon Jan 06 2025 3:41 PM](https://www.cnblogs.com/swx123/p/18656562/timer-ticker-use-and-its-precautions-4mx1q) 
- - 【摘要】在 Golang 中，Timer 和 Ticker 是常用的定时器工具，但它们的使用易出错，尤其是初学者。本文将深入探讨定时器的正确使用方式、常见误区，并通过源码解读帮助你更好地理解它们的工作原理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1865... 
 <!-- BLOG-POST-LIST:END -->
 
 
