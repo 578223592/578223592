@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[[DDD架构]不同数据模型DTO、VO、PO、DAO、DO的含义 - 思wu邪 Sat Mar 22 2025 2:07 PM](https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250gkg) 
+ - 💫[go 指针接收者和值接收者的区别 - 思wu邪 Wed Apr 16 2025 1:33 PM](https://www.cnblogs.com/swx123/p/18829722/the-difference-between-go-pointer-receiver-and-value-receiver-z1rckyp) 
+ - 【摘要】Go语言中指针接收者与值接收者的核心区别：指针接收者可修改原值并实现接口，值接收者操作副本且不影响原值。接口实现时，值接收者的类型和指针均可赋值，而指针接收者仅指针类型有效，编译器处理普通调用时自动转换 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18... 
+
+ - 🦧[[DDD架构]不同数据模型DTO、VO、PO、DAO、DO的含义 - 思wu邪 Sat Mar 22 2025 2:07 PM](https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250gkg) 
  - 【摘要】DDD中不同object的含义 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250... 
 
- - 🦧[golang Error的一些坑 - 思wu邪 Sat Mar 22 2025 5:59 AM](https://www.cnblogs.com/swx123/p/18786510/some-pitfalls-of-golang-error-zm5wif) 
+ - 💫[golang Error的一些坑 - 思wu邪 Sat Mar 22 2025 5:59 AM](https://www.cnblogs.com/swx123/p/18786510/some-pitfalls-of-golang-error-zm5wif) 
  - 【摘要】Go错误处理需规范预定义错误变量（如var ErrX = errors.New&lpar;&quot;x&quot;&rpar;），避免动态生成导致errors.Is失效；自定义错误应封装结构体并仅暴露接口，返回nil时确保接口类型为nil，防止非预期判断。优先使用errors.Is/As进行链式检查，规避指针和nil陷阱。 &lt;a... 
 
  - 💫[CQRS （Command Query Responsibility Segregation，命令查询职责分离） - 思wu邪 Thu Mar 13 2025 3:42 PM](https://www.cnblogs.com/swx123/p/18771282/cqrs-command-query-responsibility-segregation-command-query-responsibilities-separation-z1q9ewi) 
  - 【摘要】CQRS（命令查询职责分离）通过将数据写入（命令）与读取（查询）分离优化系统架构。在微服务场景中，数据分散导致查询效率低下时，可通过创建只读视图数据库聚合数据。该视图库订阅各服务领域事件，实时同步更新（如文档型NoSQL），解决跨服务查询性能问题。需权衡数据一致性（容忍短暂延迟，结合离线和在... 
 
- - 💫[Golang sync.pool源码解析 - 思wu邪 Fri Jan 24 2025 6:05 AM](https://www.cnblogs.com/swx123/p/18689447/golang-syncpool-source-code-analysis-1xpgw6) 
+ - 💯[Golang sync.pool源码解析 - 思wu邪 Fri Jan 24 2025 6:05 AM](https://www.cnblogs.com/swx123/p/18689447/golang-syncpool-source-code-analysis-1xpgw6) 
  - 【摘要】sync.Pool 是 Go 中用于对象复用的工具，可减少频繁创建和销毁对象的开销，从而优化内存使用和降低 GC 压力。本文通过分析其用法、真实案例及源码结构，详细解读了 sync.Pool 的读写流程及其背后的高效设计思想，为性能优化提供了实用参考。 &lt;a href=&quot;https://ww... 
-
- - 💯[【大厂文章学习】合并编译的学习与思考 - 思wu邪 Wed Jan 22 2025 12:46 PM](https://www.cnblogs.com/swx123/p/18686774/learning-from-the-large-factory-article-the-study-and-thinking-of-combined-compilation-jva2s) 
- - 【摘要】合并编译通过将微服务的远程调用优化为本地函数调用，显著降低CPU开销和容器资源需求，但需权衡服务隔离、版本管理等挑战，适用于资源密集、调用关系紧密的场景。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18686774/learning-from-the... 
 <!-- BLOG-POST-LIST:END -->
 
 
