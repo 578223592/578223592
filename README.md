@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[极客时间《后端存储实战课》阅读笔记 - 思wu邪 Sun Jun 15 2025 2:16 PM](https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls) 
+ - 💫[singlefligt使用方法和源码解读 - 思wu邪 Wed Jun 18 2025 2:26 PM](https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn) 
+ - 【摘要】singlefligt使用方法和源码解读 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn&quot; target=&quot;_b... 
+
+ - 🦧[极客时间《后端存储实战课》阅读笔记 - 思wu邪 Sun Jun 15 2025 2:16 PM](https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls) 
  - 【摘要】极客时间《后端存储实战课》阅读笔记。。。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls&quot; target=&quot;_... 
 
- - 🦧[极客时间《消息队列高手课》阅读笔记 - 思wu邪 Sat Jun 07 2025 6:23 AM](https://www.cnblogs.com/swx123/p/18916659/geek-time-message-queue-master-class-reading-notes-1e2my2) 
+ - 💫[极客时间《消息队列高手课》阅读笔记 - 思wu邪 Sat Jun 07 2025 6:23 AM](https://www.cnblogs.com/swx123/p/18916659/geek-time-message-queue-master-class-reading-notes-1e2my2) 
  - 【摘要】消息队列通过事务消息、2PC/TCC实现分布式事务，保障消息不丢失与幂等消费；Kafka结合Flink Checkpoint机制实现端到端Exactly Once，确保流计算场景数据精准处理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1891665... 
 
  - 💫[go 指针接收者和值接收者的区别 - 思wu邪 Wed Apr 16 2025 1:33 PM](https://www.cnblogs.com/swx123/p/18829722/the-difference-between-go-pointer-receiver-and-value-receiver-z1rckyp) 
  - 【摘要】Go语言中指针接收者与值接收者的核心区别：指针接收者可修改原值并实现接口，值接收者操作副本且不影响原值。接口实现时，值接收者的类型和指针均可赋值，而指针接收者仅指针类型有效，编译器处理普通调用时自动转换 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18... 
 
- - 💫[[DDD架构]不同数据模型DTO、VO、PO、DAO、DO的含义 - 思wu邪 Sat Mar 22 2025 2:07 PM](https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250gkg) 
+ - 💯[[DDD架构]不同数据模型DTO、VO、PO、DAO、DO的含义 - 思wu邪 Sat Mar 22 2025 2:07 PM](https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250gkg) 
  - 【摘要】DDD中不同object的含义 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18787209/ddd-architecture-the-meaning-of-different-data-models-dto-vo-po-dao-and-do-z250... 
-
- - 💯[golang Error的一些坑 - 思wu邪 Sat Mar 22 2025 5:59 AM](https://www.cnblogs.com/swx123/p/18786510/some-pitfalls-of-golang-error-zm5wif) 
- - 【摘要】Go错误处理需规范预定义错误变量（如var ErrX = errors.New&lpar;&quot;x&quot;&rpar;），避免动态生成导致errors.Is失效；自定义错误应封装结构体并仅暴露接口，返回nil时确保接口类型为nil，防止非预期判断。优先使用errors.Is/As进行链式检查，规避指针和nil陷阱。 &lt;a... 
 <!-- BLOG-POST-LIST:END -->
 
 
