@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[并发下正确的FirstOrCreate数据库操作 - 思wu邪 Wed Jun 25 2025 3:31 PM](https://www.cnblogs.com/swx123/p/18949056/concurrently-the-correct-firstorcreate-database-operation-is-done-z24qege) 
+ - 💫[从零构建搜索引擎 build demo search engine from scratch - 思wu邪 Mon Jul 14 2025 3:22 PM](https://www.cnblogs.com/swx123/p/18984825/build-demo-search-engine-from-scratch-1aai6n) 
+ - 【摘要】揭秘搜索引擎瞬间海量搜索的秘密！一文搞懂倒序索引原理，开源Demo上线GitHub：支持AND/OR查询！ &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18984825/build-demo-search-engine-from-scratch-1aa... 
+
+ - 🦧[并发下正确的FirstOrCreate数据库操作 - 思wu邪 Wed Jun 25 2025 3:31 PM](https://www.cnblogs.com/swx123/p/18949056/concurrently-the-correct-firstorcreate-database-operation-is-done-z24qege) 
  - 【摘要】你是否以为用了FirstOrCreate就万事大吉？大错特错！在高并发的环境下，这个操作竟成了重复数据和系统崩溃的元凶！本文将揭露并发场景下FirstOrCreate的致命陷阱，并给出终极解决方案 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18949... 
 
- - 🦧[singlefligt使用方法和源码解读 - 思wu邪 Wed Jun 18 2025 2:26 PM](https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn) 
+ - 💫[singlefligt使用方法和源码解读 - 思wu邪 Wed Jun 18 2025 2:26 PM](https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn) 
  - 【摘要】singlefligt使用方法和源码解读 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn&quot; target=&quot;_b... 
 
  - 💫[极客时间《后端存储实战课》阅读笔记 - 思wu邪 Sun Jun 15 2025 2:16 PM](https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls) 
  - 【摘要】极客时间《后端存储实战课》阅读笔记。。。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls&quot; target=&quot;_... 
 
- - 💫[极客时间《消息队列高手课》阅读笔记 - 思wu邪 Sat Jun 07 2025 6:23 AM](https://www.cnblogs.com/swx123/p/18916659/geek-time-message-queue-master-class-reading-notes-1e2my2) 
+ - 💯[极客时间《消息队列高手课》阅读笔记 - 思wu邪 Sat Jun 07 2025 6:23 AM](https://www.cnblogs.com/swx123/p/18916659/geek-time-message-queue-master-class-reading-notes-1e2my2) 
  - 【摘要】消息队列通过事务消息、2PC/TCC实现分布式事务，保障消息不丢失与幂等消费；Kafka结合Flink Checkpoint机制实现端到端Exactly Once，确保流计算场景数据精准处理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1891665... 
-
- - 💯[go 指针接收者和值接收者的区别 - 思wu邪 Wed Apr 16 2025 1:33 PM](https://www.cnblogs.com/swx123/p/18829722/the-difference-between-go-pointer-receiver-and-value-receiver-z1rckyp) 
- - 【摘要】Go语言中指针接收者与值接收者的核心区别：指针接收者可修改原值并实现接口，值接收者操作副本且不影响原值。接口实现时，值接收者的类型和指针均可赋值，而指针接收者仅指针类型有效，编译器处理普通调用时自动转换 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18... 
 <!-- BLOG-POST-LIST:END -->
 
 
