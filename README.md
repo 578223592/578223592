@@ -28,20 +28,20 @@
 
 ## 🎈 Blog posts
 <!-- BLOG-POST-LIST:START -->
- - 💫[从零构建搜索引擎 build demo search engine from scratch - 思wu邪 Mon Jul 14 2025 3:22 PM](https://www.cnblogs.com/swx123/p/18984825/build-demo-search-engine-from-scratch-1aai6n) 
+ - 💫[大厂文章学习《DDD在大众点评交易系统演进中的应用》 - 思wu邪 Sun Aug 31 2025 7:55 AM](https://www.cnblogs.com/swx123/p/19066946/dachang-s-article-study-the-application-of-ddd-in-the-evolution-of-dianping-trading-system-z2vfpnf) 
+ - 【摘要】大厂文章学习：大众点评通过DDD对交易系统进行领域拆解与建模，利用限界上下文、防腐层等模式隔离变化，最终通过分层架构将领域模型映射为代码实现，提升了复杂业务的应对能力。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/19066946/dachang-s-... 
+
+ - 🦧[从零构建搜索引擎 build demo search engine from scratch - 思wu邪 Mon Jul 14 2025 3:22 PM](https://www.cnblogs.com/swx123/p/18984825/build-demo-search-engine-from-scratch-1aai6n) 
  - 【摘要】揭秘搜索引擎瞬间海量搜索的秘密！一文搞懂倒序索引原理，开源Demo上线GitHub：支持AND/OR查询！ &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18984825/build-demo-search-engine-from-scratch-1aa... 
 
- - 🦧[并发下正确的FirstOrCreate数据库操作 - 思wu邪 Wed Jun 25 2025 3:31 PM](https://www.cnblogs.com/swx123/p/18949056/concurrently-the-correct-firstorcreate-database-operation-is-done-z24qege) 
+ - 💫[并发下正确的FirstOrCreate数据库操作 - 思wu邪 Wed Jun 25 2025 3:31 PM](https://www.cnblogs.com/swx123/p/18949056/concurrently-the-correct-firstorcreate-database-operation-is-done-z24qege) 
  - 【摘要】你是否以为用了FirstOrCreate就万事大吉？大错特错！在高并发的环境下，这个操作竟成了重复数据和系统崩溃的元凶！本文将揭露并发场景下FirstOrCreate的致命陷阱，并给出终极解决方案 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18949... 
 
  - 💫[singlefligt使用方法和源码解读 - 思wu邪 Wed Jun 18 2025 2:26 PM](https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn) 
  - 【摘要】singlefligt使用方法和源码解读 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18935444/singlefligt-usage-method-and-source-code-interpretation-zocygn&quot; target=&quot;_b... 
 
- - 💫[极客时间《后端存储实战课》阅读笔记 - 思wu邪 Sun Jun 15 2025 2:16 PM](https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls) 
+ - 💯[极客时间《后端存储实战课》阅读笔记 - 思wu邪 Sun Jun 15 2025 2:16 PM](https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls) 
  - 【摘要】极客时间《后端存储实战课》阅读笔记。。。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/18930256/geek-time-backend-storage-practical-course-reading-notes-2fudls&quot; target=&quot;_... 
-
- - 💯[极客时间《消息队列高手课》阅读笔记 - 思wu邪 Sat Jun 07 2025 6:23 AM](https://www.cnblogs.com/swx123/p/18916659/geek-time-message-queue-master-class-reading-notes-1e2my2) 
- - 【摘要】消息队列通过事务消息、2PC/TCC实现分布式事务，保障消息不丢失与幂等消费；Kafka结合Flink Checkpoint机制实现端到端Exactly Once，确保流计算场景数据精准处理。 &lt;a href=&quot;https://www.cnblogs.com/swx123/p/1891665... 
 <!-- BLOG-POST-LIST:END -->
 
 
