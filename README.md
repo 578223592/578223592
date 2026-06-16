@@ -49,20 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 09 May 2026 - To: 08 June 2026
+From: 16 May 2026 - To: 15 June 2026
 
-Total Time: 189 hrs 15 mins
+Total Time: 202 hrs 48 mins
 
-Other            134 hrs 57 mins       >>>>>>>>>>>>>>>>>>-------   71.31 %
-Go               32 hrs 11 mins        >>>>---------------------   17.01 %
-Markdown         8 hrs 26 mins         >------------------------   04.46 %
-PHP              4 hrs 19 mins         >------------------------   02.28 %
-Bash             2 hrs 23 mins         -------------------------   01.27 %
-JavaScript       2 hrs 17 mins         -------------------------   01.21 %
-PlantUML file    1 hr 20 mins          -------------------------   00.71 %
-HTTP Request     37 mins               -------------------------   00.33 %
-JSON             28 mins               -------------------------   00.25 %
-TOML             25 mins               -------------------------   00.23 %
+Other            128 hrs 51 mins       >>>>>>>>>>>>>>>>---------   63.53 %
+Go               33 hrs 23 mins        >>>>---------------------   16.46 %
+Markdown         21 hrs 14 mins        >>>----------------------   10.47 %
+PHP              7 hrs 32 mins         >------------------------   03.72 %
+HTML             2 hrs 15 mins         -------------------------   01.11 %
+JavaScript       1 hr 59 mins          -------------------------   00.98 %
+PlantUML file    1 hr 48 mins          -------------------------   00.89 %
+HTTP Request     1 hr 27 mins          -------------------------   00.72 %
+JSON             37 mins               -------------------------   00.31 %
+TOML             37 mins               -------------------------   00.31 %
 ```
 
 <!--END_SECTION:waka-->
