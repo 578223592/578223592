@@ -49,20 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 25 July 2026 - To: 24 August 2026
+From: 01 August 2026 - To: 31 August 2026
 
-Total Time: 281 hrs 35 mins
+Total Time: 272 hrs 4 mins
 
-Other            165 hrs 35 mins       >>>>>>>>>>>>>>>----------   58.81 %
-Go               44 hrs 15 mins        >>>>---------------------   15.72 %
-Markdown         42 hrs 13 mins        >>>>---------------------   14.99 %
-JavaScript       9 hrs 48 mins         >------------------------   03.48 %
-PHP              4 hrs 12 mins         -------------------------   01.49 %
-TOML             3 hrs 36 mins         -------------------------   01.28 %
-YAML             2 hrs 59 mins         -------------------------   01.06 %
-HTML             2 hrs 30 mins         -------------------------   00.89 %
-CSS              2 hrs 17 mins         -------------------------   00.81 %
-TypeScript       1 hr 59 mins          -------------------------   00.71 %
+Other            158 hrs 48 mins       >>>>>>>>>>>>>>>----------   58.37 %
+Go               37 hrs 56 mins        >>>----------------------   13.95 %
+Markdown         35 hrs 13 mins        >>>----------------------   12.94 %
+JavaScript       18 hrs 52 mins        >>-----------------------   06.94 %
+PHP              8 hrs 13 mins         >------------------------   03.02 %
+TOML             3 hrs 2 mins          -------------------------   01.12 %
+YAML             2 hrs 59 mins         -------------------------   01.10 %
+HTML             2 hrs 6 mins          -------------------------   00.78 %
+CSS              1 hr 39 mins          -------------------------   00.61 %
+TypeScript       46 mins               -------------------------   00.28 %
 ```
 
 <!--END_SECTION:waka-->
