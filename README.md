@@ -49,20 +49,20 @@
 <!--START_SECTION:waka-->
 
 ```rust
-From: 19 September 2026 - To: 19 October 2026
+From: 26 September 2026 - To: 26 October 2026
 
-Total Time: 129 hrs 7 mins
+Total Time: 167 hrs 51 mins
 
-Other            86 hrs 50 mins        >>>>>>>>>>>>>>>>>--------   67.26 %
-Go               25 hrs 19 mins        >>>>>--------------------   19.61 %
-Markdown         6 hrs 31 mins         >------------------------   05.05 %
-JavaScript       2 hrs 39 mins         >------------------------   02.06 %
-PHP              2 hrs 33 mins         -------------------------   01.98 %
-Python           1 hr 39 mins          -------------------------   01.29 %
-Image (png)      50 mins               -------------------------   00.65 %
-JSON             30 mins               -------------------------   00.39 %
-HTML             25 mins               -------------------------   00.33 %
-IDL              20 mins               -------------------------   00.26 %
+Other            112 hrs 57 mins       >>>>>>>>>>>>>>>>>--------   67.29 %
+Go               27 hrs 38 mins        >>>>---------------------   16.47 %
+Markdown         8 hrs 40 mins         >------------------------   05.17 %
+JavaScript       4 hrs 13 mins         >------------------------   02.51 %
+PHP              2 hrs 49 mins         -------------------------   01.68 %
+TypeScript       2 hrs 48 mins         -------------------------   01.68 %
+Python           1 hr 41 mins          -------------------------   01.01 %
+Image (png)      1 hr 36 mins          -------------------------   00.96 %
+Text             1 hr 11 mins          -------------------------   00.71 %
+textmate         57 mins               -------------------------   00.58 %
 ```
 
 <!--END_SECTION:waka-->
